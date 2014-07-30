@@ -8,7 +8,7 @@
   "description": "Javascript tooltips",
   "keywords": [
   ],
-  "license": "MIT",
+  "license": "CC BY-ND 3.0",
   "main": "js/prototip.js",
   "ignore": [
   ]
