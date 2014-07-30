@@ -1,0 +1,15 @@
+{
+  "name": "prototip",
+  "version": "2.1.2.0",
+  "homepage": "http://www.nickstakenburg.com/projects/prototip2/",
+  "authors": [
+    "Nick Stakenburg <nick@nickstakenburg.com>"
+  ],
+  "description": "Javascript tooltips",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "main": "js/prototip.js",
+  "ignore": [
+  ]
+}
